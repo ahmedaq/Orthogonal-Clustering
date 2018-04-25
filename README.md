@@ -25,17 +25,17 @@ Ahmed A. Quadeer and Tareq Y. Al-Naffouri
 
 ## Usage
 #### Effect of the sparsity rate "p" on the performance of the OC method and comparison with other sparse reconstruction algorithms for the case when the sparse signal is Gaussian distributed.
-   * Run the script Experiment_Effect_p_Gaussian.m
+   * Run the script ```Experiment_Effect_p_Gaussian.m```
 #### Effect of the signal-to-noise ratio "SNR" on the performance of the OC method and comparison with other sparse reconstruction algorithms for the case when the sparse signal is Gaussian distributed.
-   * Run the script Experiment_Effect_SNR_Gaussian.m
+   * Run the script ```Experiment_Effect_SNR_Gaussian.m```
 #### Effect of the cluster length "L" on the performance of the OC method
-   * Run the script Experiment_Effect_L.m
+   * Run the script ```Experiment_Effect_L.m```
 #### Effect of the under-sampling ratio "us" on the performance of the OC method
-   * Run the script Experiment_Effect_Undersampling_ratio.m
+   * Run the script ```Experiment_Effect_Undersampling_ratio.m```
 #### Effect of the sparsity rate "p" on the performance of the OC method and comparison with other sparse reconstruction algorithms for the case when the sparse signal is non-Gaussian distributed.
-   * Run the script Experiment_Effect_p_nonGaussian.m
+   * Run the script ```Experiment_Effect_p_nonGaussian.m```
 #### Effect of the signal-to-noise ratio "SNR" on the performance of the OC method and comparison with other sparse reconstruction algorithms for the case when the sparse signal is non-Gaussian distributed.
-   * Run the script Experiment_Effect_SNR_nonGaussian.m
+   * Run the script ```Experiment_Effect_SNR_nonGaussian.m```
    
 ## Troubleshooting
 For any questions or comments, please email at ahmedaq@gmail.com. 
