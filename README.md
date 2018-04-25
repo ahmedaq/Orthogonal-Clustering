@@ -45,33 +45,16 @@ For any questions or comments, please email at ahmedaq@gmail.com.
 Quadeer, Ahmed A. & Al-Naffouri, T. Y. Structure-Based Bayesian Sparse Reconstruction. IEEE Trans. Signal Process. 60, 6354–6367 (2012).
 #### BibTeX
 @article{Quadeer2012,
-
 author = {Quadeer, Ahmed A. and Al-Naffouri, T. Y.},
-
 doi = {10.1109/TSP.2012.2215029},
-
-file = {:Users/Ahmed/Documents/Mendeley Desktop/Quadeer, Al-Naffouri - 2012 - Structure-Based Bayesian Sparse Reconstruction.pdf:pdf},
-
 issn = {1053-587X},
-
 journal = {IEEE Trans. Signal Process.},
-
 keywords = {Compressive Sensing,MyPublications},
-
-mendeley-tags = {Compressive Sensing,MyPublications},
-
 month = {dec},
-
 number = {12},
-
 pages = {6354--6367},
-
 title = {{Structure-Based Bayesian Sparse Reconstruction}},
-
 url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6280684},
-
 volume = {60},
-
 year = {2012}
-
 }
